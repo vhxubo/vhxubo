@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![About Vhxubo](
+https://github-readme-stats.vercel.app/api?username=vhxubo&count_private=true&hide=issues&title_color=dde4ec&text_color=fff&bg_color=0f4c81)](https://github.com/vhxubo)
+
 <!--
 **vhxubo/vhxubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
