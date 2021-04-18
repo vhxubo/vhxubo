@@ -2,7 +2,7 @@
 
 
 [![About Vhxubo](
-https://github-readme-stats.vercel.app/api?username=vhxubo&count_private=true&hide=issues&title_color=de6092&text_color=d8d27f&bg_color=fff6e7&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=vhxubo&count_private=true&hide=issues&title_color=de6092&text_color=d8d27f&bg_color=fff6e7&hide_border=true)](https://github.com/vhxubo)
 
 
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
