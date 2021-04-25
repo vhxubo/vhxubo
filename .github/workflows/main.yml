@@ -24,3 +24,9 @@ jobs:
           plugin_wakatime_days: 7                                   # Display last week stats
           plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          plugin_people: yes
+          plugin_people_types: followers, thanks     # Display followers and "thanks" sections
+          plugin_people_limit: 28                    # Limit to 28 entries per section
+          plugin_people_size: 28                     # Size in pixels of displayed avatars
+          plugin_people_identicons: no               # Use avatars (do not use identicons)
+          plugin_people_shuffle: yes                 # Shuffle for varied output
